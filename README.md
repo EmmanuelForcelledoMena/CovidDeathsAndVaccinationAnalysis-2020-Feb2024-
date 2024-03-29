@@ -12,6 +12,6 @@ The file `SQLQueryCovidDeathsAndVaccination.sql` contains the SQL code used for 
 
 The data visualization is available through Tableau. You can access the visualization by visiting the following link: [Visualization in Tableau](https://public.tableau.com/app/profile/emmanuel.mena/viz/CovidDeathsandVaccinationsCasesAnalysis2020-February2024/Dashboard1).
 
-Feel free to explore the data and visualization, and don't hesitate to contact us if you have any questions or concerns.
+Feel free to explore the data and visualization, and don't hesitate to contact me if you have any questions or concerns.
 
 Thank you for your interest in my project!
